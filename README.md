@@ -6,3 +6,4 @@ Python code for beginners
 
 ## [Prose](https://github.com/lgrcia/prose) by lgarcia
 Python program for image reduction
+This is the [book](https://prose.readthedocs.io/en/latest/ipynb/fitsmanager.html) for Prose.
