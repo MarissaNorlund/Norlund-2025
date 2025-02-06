@@ -8,3 +8,6 @@ Python code for beginners
 Python program for image reduction
 
 This is the [book](https://prose.readthedocs.io/en/latest/ipynb/fitsmanager.html) for Prose.
+
+## [OpenNGC](https://github.com/mattiaverga/OpenNGC) Catalogue by mattiaverga & sebgod
+Github repository for NGC/IC objects
